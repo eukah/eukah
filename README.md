@@ -2,6 +2,9 @@
   <h1>Welcome to my Github profile.</h1>
 </div>
 
+<div align="center">
+  <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"/>
+</div>
 ---
 
 ### 🧩 About Me :
