@@ -3,11 +3,10 @@
 </div>
 
 <div align="center">
-  <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360)"/>
+  <img src="https://media.giphy.com/media/aqOUrkDo2fdyE/giphy.gif" width="500" height="300"/>
 </div>
----
 
-### 🧩 About Me :
+### 👁️ About Me :
 
  - I'm Kaique Henry!
  - 18 years old.
